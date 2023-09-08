@@ -1,4 +1,4 @@
-# POWERBI-DASHBOARD
+
 # Power BI Portfolio
 
 Welcome to my Power BI portfolio, showcasing my skills and projects in data analysis and visualization using Power BI. I recently completed the Power BI course from Code-Basics, and I'm excited to share my projects and learnings with you.
